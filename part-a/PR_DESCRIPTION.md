@@ -21,7 +21,7 @@
 
 > “IRCTC website hangs exactly when Tatkal opens and by the time it reloads, everything is waitlist.”
 
-Source link (replace with one verified source URL from X/App Store/Reddit): [Add source URL here](https://example.com)
+Source link (example): Twitter search for recent user reports about Tatkal crashes: https://twitter.com/search?q=IRCTC%20Tatkal%20crash&src=typed_query
 
 Video proof: add your Google Drive video URL here after upload.
 
