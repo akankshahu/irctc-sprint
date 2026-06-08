@@ -21,9 +21,17 @@
 
 > “IRCTC website hangs exactly when Tatkal opens and by the time it reloads, everything is waitlist.”
 
-Source link (replace with one verified source URL from X/App Store/Reddit): [Add source URL here](https://example.com)
+Source links (examples):
+- Twitter/X search for recent user reports: https://x.com/search?q=IRCTC%20Tatkal%20crash&src=typed_query
+- Reddit search for user reports and threads: https://www.reddit.com/search/?q=IRCTC%20Tatkal%20crash
 
 Video proof: add your Google Drive video URL here after upload.
+
+---
+
+Polished summary
+
+This repository contains the Part A problem-discovery deliverable for the IRCTC design sprint: six documented pain points (three given, three self-discovered). Each issue includes a concrete failure description, clearly defined affected users, frequency estimates, and a step-by-step broken flow that a PM or engineer can act on. A placeholder screenshot is included; replace it with a live capture if available. Once the short video walkthrough is uploaded, add the Drive link above and we'll finalize submission.
 
 ## Confirmation
 
