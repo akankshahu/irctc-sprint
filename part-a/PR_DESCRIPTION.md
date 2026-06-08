@@ -27,6 +27,12 @@ Source links (examples):
 
 Video proof: add your Google Drive video URL here after upload.
 
+---
+
+Polished summary
+
+This repository contains the Part A problem-discovery deliverable for the IRCTC design sprint: six documented pain points (three given, three self-discovered). Each issue includes a concrete failure description, clearly defined affected users, frequency estimates, and a step-by-step broken flow that a PM or engineer can act on. A placeholder screenshot is included; replace it with a live capture if available. Once the short video walkthrough is uploaded, add the Drive link above and we'll finalize submission.
+
 ## Confirmation
 
 Yes — the 3 self-discovered problems (Problems 4, 5, 6) are different from the 3 given problems (Problems 1, 2, 3).
